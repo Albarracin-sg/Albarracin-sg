@@ -66,7 +66,7 @@ A comprehensive healthcare management platform built with modern web technologie
 ### 🤖 [Chatbot Valle](https://github.com/Albarracin-sg/chatbot-valle)
 An intelligent web-based chatbot solution with a React frontend, designed to provide automated customer support with a smooth and responsive user experience.
 
-### 🏨 [Hotel Management System](https://github.com/Albarracin-sg/hotel-management)
+### 🏨 [Hotel Management System](https://github.com/Albarracin-sg/HOTEL)
 A complete hotel management web application featuring room booking, guest management, and administrative tools built with React + Vite for optimal performance.
 
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="40"> Connect With Me
@@ -78,7 +78,7 @@ A complete hotel management web application featuring room booking, guest manage
   <a href="https://twitter.com/albarracin_sg" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:juan.albarracin@example.com" target="_blank">
+  <a href="mailto:albarrajuan5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
