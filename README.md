@@ -1,92 +1,102 @@
-# Hi there! I'm Juan Albarracín <img src="https://media.giphy.com/media/3ornka9rAaKRA2Rkac/giphy.gif" width="60" align="right">
+# Juan Camilo Albarracín Urrego
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+Expert;Transitioning+to+TypeScript;React+%26+Vite+Specialist;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
-  </a>
+**Full-Stack Engineer (Backend Focus) · Microservices · Distributed Architecture · AI & MCP Integration**  
+Bogotá, Colombia
+
+<p align="left">
+  <a href="mailto:albarrajuan5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/juan-albarracin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Albarracin-sg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+## About
+
+I build backend-first systems that replace manual operations with reliable software.
+
+My work is centered on **microservices**, **distributed architecture**, **AI-enabled workflows**, and **MCP-based orchestration**. I apply **DDD**, **CQRS**, and **Clean Architecture** to production systems, while keeping full-stack delivery capability with **React**, **Next.js**, and **React Native** when the product needs it.
+
+## What I Build
+
+- **Backend platforms** with NestJS, TypeScript, Python, PostgreSQL, Redis, REST, gRPC, WebSockets, and event-driven integrations.
+- **AI-enabled workflows** that turn repetitive human processes into structured, traceable, data-backed execution.
+- **Operational tooling** with testing, documentation, CI/CD pipelines, and production-minded developer experience.
+- **Frontend experiences** with React, Next.js, React Native, Astro, and Tailwind CSS for admin panels, product flows, mobile apps, and interfaces connected to robust backend systems.
+- **Full-stack products** where the backend architecture is the core and the frontend translates complex workflows into clear, usable product experiences.
+
+## Professional Impact
+
+> Private/client work is described by impact and architecture, not by exposing proprietary repositories.
+
+- Designed and implemented an **MCP-based orchestration flow** that converted natural-language requests into real tool execution against institutional data sources.
+- Replaced a **static teaching evaluation flow** with an AI-assisted dynamic model that captured structured feedback and generated decision-ready summaries.
+- Built integration flows for **CRM + telephony automation**, replacing manual contact operations with programmable campaign execution.
+- Implemented **balanced assignment logic** for operational distribution, reducing manual load imbalance in academic workflows.
+
+## Selected Projects
+
+### Track Vault
+Private org project focused on music infrastructure: a full-stack system for streaming, local downloads, collaborative sessions, and private-server connectivity. Strong example of product thinking across backend, mobile, realtime features, and domain-driven feature design.
+
+### [E-commerce Web](https://github.com/Albarracin-sg/E-commerce-web)
+Full-stack TypeScript application with React/Vite, Express, Prisma, PostgreSQL, JWT authentication, and automated testing with Vitest, Supertest, Cypress Component, and Playwright.
+
+### [MIS-DOTFILES](https://github.com/Albarracin-sg/MIS-DOTFILES)
+Reproducible Linux development environment with Arch, Hyprland, Neovim, Waybar, Kitty, Zsh, portable setup support, and productivity-focused workstation automation.
+
+### [ListenUp English](https://github.com/Albarracin-sg/ListenUp-English)
+English-learning platform built around video-based exercises, structured feedback, and interactive practice flows.
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Node.js, NestJS, Python, TypeScript, C#, Java |
+| Architecture | Microservices, DDD, CQRS, Clean Architecture, gRPC, REST APIs, WebSockets, Webhooks, Cron Jobs |
+| AI & MCP | MCP, tool calling, orchestrators, OpenAI API, Anthropic API |
+| Data | PostgreSQL, MySQL, Redis, Prisma, Entity Framework, Pandas, Polars |
+| Infra & Delivery | Docker, GitHub Actions, CI/CD Pipelines, Prometheus, Grafana, Linux |
+| Frontend | React, Next.js, React Native, Astro, Tailwind CSS |
+| Testing & Docs | Jest, Cypress, Swagger / OpenAPI |
+
+## Current Snapshot
+
+```javascript
+class JuanAlbarracin {
+  constructor() {
+    this.role = "Full-Stack Engineer (Backend Focus)";
+    this.specialties = [
+      "Microservices",
+      "Distributed Architecture",
+      "AI & MCP Integration"
+    ];
+    this.architecture = ["DDD", "CQRS", "Clean Architecture"];
+    this.backend = ["NestJS", "Node.js", "Python", "PostgreSQL", "gRPC"];
+    this.frontend = ["React", "Next.js", "React Native"];
+    this.mission = "Replace manual workflows with intelligent systems";
+  }
+
+  currentFocus() {
+    return [
+      "building backend platforms",
+      "designing orchestration flows",
+      "shipping production-minded full-stack systems"
+    ];
+  }
+
+  sayHi() {
+    return "I care about architecture, clarity, and software that removes operational friction.";
+  }
+}
+
+const me = new JuanAlbarracin();
+console.log(me.currentFocus());
+console.log(me.sayHi());
+```
+
+## GitHub Analytics
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400" height="250"/>
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-I'm a passionate **Frontend Developer** with strong expertise in JavaScript and modern web technologies. I specialize in React + Vite development and I'm currently making the transition to TypeScript, with the goal of becoming a Full-Stack Developer.
-
-- 🔭 Currently working on modern web applications with React + Vite
-- 🌱 Transitioning from JavaScript to TypeScript and learning backend technologies
-- 👯 Looking to collaborate on frontend projects and learning full-stack development  
-- 🎯 Goal: Becoming a Full-Stack Developer while mastering TypeScript
-- 💬 Ask me about JavaScript, React, frontend development, or transitioning to TypeScript
-- ⚡ Fun fact: I love creating beautiful UIs and I'm excited about backend challenges!
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack***
-
-### 💻 Languages
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-
-### ⚛️ Frontend Technologies
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</div>
-
-### 🌱 Learning & Exploring
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</div>
-
-### 🛠️ Development Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
-
-### 🏥 [Healthcare Information System (IPS)](https://github.com/Albarracin-sg/IPS)
-A comprehensive healthcare management platform built with modern web technologies, featuring patient data management and appointment scheduling with an intuitive React interface.
-
-### 🤖 [Chatbot Valle](https://github.com/Albarracin-sg/chatbot-valle)
-An intelligent web-based chatbot solution with a React frontend, designed to provide automated customer support with a smooth and responsive user experience.
-
-### 🏨 [Hotel Management System](https://github.com/Albarracin-sg/HOTEL)
-A complete hotel management web application featuring room booking, guest management, and administrative tools built with React + Vite for optimal performance.
-
-## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="40"> Connect With Me
-
-<div align="left">
-  <a href="https://linkedin.com/in/juan-albarracin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/albarracin_sg" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:albarrajuan5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albarracin-sg&show_icons=true&theme=react&hide_border=true&locale=en" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albarracin-sg&show_icons=true&theme=react&hide_border=true&locale=en&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albarracin-sg&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
@@ -98,40 +108,8 @@ A complete hotel management web application featuring room booking, guest manage
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albarracin-sg&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> Current Learning Journey
+## Currently Listening
 
-```javascript
-class JuanAlbarracin {
-  constructor() {
-    this.name = "Juan Albarracín";
-    this.role = "Frontend Developer";
-    this.expertise = ["JavaScript", "React", "HTML/CSS"];
-    this.currentFocus = "Transitioning to TypeScript";
-    this.goal = "Becoming a Full-Stack Developer";
-    this.mainTools = ["React", "Vite", "TailwindCSS"];
-    this.learning = ["TypeScript", "Node.js", "Backend Development"];
-  }
-  
-  getCurrentJourney() {
-    return `Frontend expert transitioning to ${this.currentFocus} and learning backend! 🎯`;
-  }
-  
-  sayHi() {
-    console.log("Thanks for visiting! Let's build amazing frontends together 🚀");
-  }
-}
-
-const me = new JuanAlbarracin();
-console.log(me.getCurrentJourney());
-me.sayHi();
-```
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
-  <br>
-  <strong>⭐️ From [Albarracin-sg](https://github.com/Albarracin-sg)</strong>
-  <br>
-  <em>💡 "The best way to learn is by doing, and the best code is the one that works." 🎯</em>
-</div>
+<!-- spotify:start -->
+Listening data will appear here once Spotify credentials are configured.
+<!-- spotify:end -->
