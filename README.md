@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/badge/Email-albarrajuan5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/juan-albarracin">
-    <img src="https://img.shields.io/badge/LinkedIn-juan--albarracin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://github.com/Albarracin-sg">
     <img src="https://img.shields.io/badge/GitHub-Albarracin--sg-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -181,11 +177,6 @@ class JuanAlbarracin {
 ---
 
 ## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albarracin-sg&show_icons=true&theme=react&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albarracin-sg&theme=react&hide_border=true&layout=compact" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albarracin-sg&theme=react&hide_border=true" />
