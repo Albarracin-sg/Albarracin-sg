@@ -31,12 +31,12 @@ jobs:
 
       - name: Commit changes if needed
         run: |
-          if git diff --quiet -- README.md; then
+          if git diff --quiet -- README.md .github/assets/spotify-card.svg; then
             echo "No README changes to commit"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md .github/assets/spotify-card.svg
           git commit -m "docs: update Spotify section"
           git push
