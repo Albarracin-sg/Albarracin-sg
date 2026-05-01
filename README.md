@@ -34,8 +34,7 @@
 ## 🎧 Currently Listening
 
 <!-- spotify:start -->
-Currently listening to **[Flexi wit da Tech(nique)](https://open.spotify.com/track/0Ys0SN6rQ2aGAFJ1DPX3qV)** by **Artifacts**  
-Album: *Between A Rock And A Hard Place*
+<a href="https://open.spotify.com/track/1q79aLwVAXl9Ukm9y1LPfL"><img src="./.github/assets/spotify-card.svg" alt="Spotify now playing card" width="460" /></a>
 <!-- spotify:end -->
 
 </div>
