@@ -123,5 +123,6 @@ console.log(me.sayHi());
 ## Currently Listening
 
 <!-- spotify:start -->
-Listening data will appear here once Spotify credentials are configured.
+Currently listening to **[Whayback](https://open.spotify.com/track/2YKkQHCU8K2m8IB368k2xJ)** by **Artifacts**  
+Album: *Between A Rock And A Hard Place*
 <!-- spotify:end -->
