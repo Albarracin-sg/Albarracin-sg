@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&center=true&vCenter=true&multiline=false&width=700&lines=Juan+Camilo+Albarrac%C3%ADn+%7C+Backend+Engineer;Microservices+%26+Distributed+Architecture;AI+%26+MCP+Orchestration+%7C+Bogot%C3%A1%2C+Colombia;Replacing+manual+workflows+with+intelligent+systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Juan+Camilo+Albarrac%C3%ADn+%7C+Backend+Engineer;Microservices+%26+Distributed+Architecture;AI+%26+MCP+Orchestration+%7C+Bogot%C3%A1%2C+Colombia;Replacing+manual+workflows+with+intelligent+systems" alt="Typing animation" />
 </div>
 
 ---
