@@ -1,12 +1,24 @@
-# Juan Camilo Albarracín Urrego
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:22C55E&text=Juan%20Camilo%20Albarrac%C3%ADn%20Urrego&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Full-Stack%20Engineer%20(Backend%20Focus)%20%C2%B7%20Microservices%20%C2%B7%20AI%20%26%20MCP%20Integration&descAlignY=58&descSize=16" alt="Header banner" />
+</div>
 
-**Full-Stack Engineer (Backend Focus) · Microservices · Distributed Architecture · AI & MCP Integration**  
-Bogotá, Colombia
+<div align="center">
+  <h1>Juan Camilo Albarracín Urrego</h1>
+  <p><strong>Full-Stack Engineer (Backend Focus) · Distributed Systems · AI & MCP Integration</strong></p>
+  <p>Bogotá, Colombia</p>
+</div>
 
-<p align="left">
+<p align="center">
   <a href="mailto:albarrajuan5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/juan-albarracin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Albarracin-sg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-NestJS%20%C2%B7%20Node.js%20%C2%B7%20Python-111827?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/Architecture-DDD%20%C2%B7%20CQRS%20%C2%B7%20Microservices-0F172A?style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%C2%B7%20Redis%20%C2%B7%20Prisma-1F2937?style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native-1E293B?style=flat-square" alt="Frontend" />
 </p>
 
 ## About
