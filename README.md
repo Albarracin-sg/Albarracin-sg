@@ -1,139 +1,202 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:22C55E&text=Juan%20Camilo%20Albarrac%C3%ADn%20Urrego&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Full-Stack%20Engineer%20(Backend%20Focus)%20%C2%B7%20Microservices%20%C2%B7%20AI%20%26%20MCP%20Integration&descAlignY=58&descSize=16" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,40:1D4ED8,80:0EA5E9,100:22C55E&text=Juan%20Camilo%20Albarrac%C3%ADn&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Backend%20Architecture%20%C2%B7%20AI%20%26%20MCP%20Integration&descAlignY=56&descSize=15&animation=fadeIn" alt="Header" />
 </div>
+
+<br/>
 
 <div align="center">
-  <h1>Juan Camilo Albarracín Urrego</h1>
-  <p><strong>🚀 Full-Stack Engineer (Backend Focus) · Distributed Systems · AI & MCP Integration</strong></p>
-  <p>Bogotá, Colombia</p>
+  <a href="mailto:albarrajuan5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-albarrajuan5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/juan-albarracin">
+    <img src="https://img.shields.io/badge/LinkedIn-juan--albarracin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Albarracin-sg">
+    <img src="https://img.shields.io/badge/GitHub-Albarracin--sg-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding workspace" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&center=true&vCenter=true&multiline=false&width=700&lines=Juan+Camilo+Albarrac%C3%ADn+%7C+Backend+Engineer;Microservices+%26+Distributed+Architecture;AI+%26+MCP+Orchestration+%7C+Bogot%C3%A1%2C+Colombia;Replacing+manual+workflows+with+intelligent+systems" alt="Typing animation" />
 </div>
 
-<p align="center">
-  I design systems that turn manual operations into reliable software products — with strong backend architecture, production-ready delivery, and product-minded full-stack execution.
-</p>
-
-<p align="center">
-  <a href="mailto:albarrajuan5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/juan-albarracin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Albarracin-sg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-NestJS%20%C2%B7%20Node.js%20%C2%B7%20Python-111827?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Architecture-DDD%20%C2%B7%20CQRS%20%C2%B7%20Microservices-0F172A?style=flat-square" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%C2%B7%20Redis%20%C2%B7%20Prisma-1F2937?style=flat-square" alt="Data" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native-1E293B?style=flat-square" alt="Frontend" />
-</p>
-
-<div align="center">
-
-## 🎧 Currently Listening
-
-<!-- spotify:start -->
-<a href="https://open.spotify.com/track/1q79aLwVAXl9Ukm9y1LPfL"><img src="./.github/assets/spotify-card.svg" alt="Spotify now playing card" width="460" /></a>
-<!-- spotify:end -->
-
-</div>
+---
 
 ## About
 
-I build backend-first systems that replace manual operations with reliable software.
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-My work is centered on **microservices**, **distributed architecture**, **AI-enabled workflows**, and **MCP-based orchestration**. I apply **DDD**, **CQRS**, and **Clean Architecture** to production systems, while keeping full-stack delivery capability with **React**, **Next.js**, and **React Native** when the product needs it.
+Full-Stack Engineer con foco en backend, especializado en **reemplazar procesos manuales por sistemas inteligentes** usando arquitectura distribuida e IA.
 
-## What I Build
+Diseño orquestadores basados en **MCP**, microservicios con **NestJS/gRPC** y pipelines de automatización que eliminan carga operativa real. No optimizo procesos — los transformo.
 
-- **Backend platforms** with NestJS, TypeScript, Python, PostgreSQL, Redis, REST, gRPC, WebSockets, and event-driven integrations.
-- **AI-enabled workflows** that turn repetitive human processes into structured, traceable, data-backed execution.
-- **Operational tooling** with testing, documentation, CI/CD pipelines, and production-minded developer experience.
-- **Frontend experiences** with React, Next.js, React Native, Astro, and Tailwind CSS for admin panels, product flows, mobile apps, and interfaces connected to robust backend systems.
-- **Full-stack products** where the backend architecture is the core and the frontend translates complex workflows into clear, usable product experiences.
+Aplicación rigurosa de **DDD, CQRS y Clean Architecture** en producción. Capacidad full-stack cuando el producto lo exige con React, Next.js y React Native. Python para datos y automatización.
 
-## Professional Impact
+<br clear="right"/>
 
-> Private/client work is described by impact and architecture, not by exposing proprietary repositories.
+---
 
-- Designed and implemented an **MCP-based orchestration flow** that converted natural-language requests into real tool execution against institutional data sources.
-- Replaced a **static teaching evaluation flow** with an AI-assisted dynamic model that captured structured feedback and generated decision-ready summaries.
-- Built integration flows for **CRM + telephony automation**, replacing manual contact operations with programmable campaign execution.
-- Implemented **balanced assignment logic** for operational distribution, reducing manual load imbalance in academic workflows.
+## Experience
 
-## Selected Projects
+<img align="right" width="240" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Impact" />
 
-### Track Vault
-Private org project focused on music infrastructure: a full-stack system for streaming, local downloads, collaborative sessions, and private-server connectivity. Strong example of product thinking across backend, mobile, realtime features, and domain-driven feature design.
+**Full-Stack Engineer — Backend & Arquitectura**
+Universitaria de Colombia · Área de Innovación · *Ene 2025 – 2026*
 
-### [E-commerce Web](https://github.com/Albarracin-sg/E-commerce-web)
-Full-stack TypeScript application with React/Vite, Express, Prisma, PostgreSQL, JWT authentication, and automated testing with Vitest, Supertest, Cypress Component, and Playwright.
+Diseñé sistemas de microservicios con NestJS, gRPC y PostgreSQL aplicando DDD, CQRS y Clean Architecture en producción. Desacoplé servicios mediante eventos, WebSockets y Webhooks. Gestioné ciclos Scrum completos, mentoricé practicantes y lideré revisión técnica de PRs con GitFlow. Implementé pipelines CI/CD y testing integral con documentación Swagger/OpenAPI.
 
-### [MIS-DOTFILES](https://github.com/Albarracin-sg/MIS-DOTFILES)
-Reproducible Linux development environment with Arch, Hyprland, Neovim, Waybar, Kitty, Zsh, portable setup support, and productivity-focused workstation automation.
+**Proyectos de alto impacto** *(arquitectura privada)*
 
-### [ListenUp English](https://github.com/Albarracin-sg/ListenUp-English)
-English-learning platform built around video-based exercises, structured feedback, and interactive practice flows.
+- **Orquestador MCP** para universidad e IPS — lenguaje natural → interpretación de intención → tool calling dinámico → consulta real → respuesta precisa. Canal WhatsApp integrado. Eliminó formularios rígidos y estandarizó respuestas eliminando inconsistencias humanas.
+- **Evaluación docente con IA** — reemplazó formulario estático de 40 preguntas por modelo dinámico: detección de score bajo → pregunta contextual generada → feedback estructurado persistido → resúmenes automáticos por corte.
+- **Integración CRM Conexia + Telnyx** — microservicio intermedio: eventos del CRM → ejecución programática de llamadas y campañas a escala. Eliminó contacto manual de usuarios.
+- **Round Robin de asignación** — distribución equitativa de estudiantes entre instructores. Redujo desequilibrios de carga operativa.
+
+<br clear="right"/>
+
+---
+
+## Projects
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="340" alt="Code" />
+</div>
+
+<br/>
+
+**Track Vault** — *React Native · NestJS · WebSockets · JWT*
+
+App móvil open source de streaming y descarga local de música. Backend con WebSockets para reproducción en tiempo real, autenticación JWT, integración con APIs externas y sesiones colaborativas tipo jam. Arquitectura full-stack propia — no es un clon.
+
+---
+
+**[E-commerce Web](https://github.com/Albarracin-sg/E-commerce-web)** — *TypeScript · React/Vite · Express · Prisma · PostgreSQL*
+
+Aplicación full-stack con autenticación JWT y testing automatizado end-to-end con Vitest, Supertest, Cypress y Playwright.
+
+---
+
+**[MIS-DOTFILES](https://github.com/Albarracin-sg/MIS-DOTFILES)** — *Arch Linux · Hyprland · Neovim · Zsh*
+
+Entorno de desarrollo Linux reproducible desde cero — Hyprland, Neovim, Waybar, Kitty, Zsh. Setup portable y orientado a productividad real.
+
+---
+
+**Servidor self-hosted** — *Ubuntu Server · Nextcloud*
+
+Configuración y administración de servidor propio con Ubuntu Server, despliegue de Nextcloud y gestión completa de almacenamiento en producción propia.
+
+---
+
+**[ListenUp English](https://github.com/Albarracin-sg/ListenUp-English)**
+
+Plataforma de inglés basada en ejercicios con video, feedback estructurado y flujos de práctica interactiva.
+
+---
 
 ## Tech Stack
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Node.js, NestJS, Python, TypeScript, C#, Java |
-| Architecture | Microservices, DDD, CQRS, Clean Architecture, gRPC, REST APIs, WebSockets, Webhooks, Cron Jobs |
-| AI & MCP | MCP, tool calling, orchestrators, OpenAI API, Anthropic API |
-| Data | PostgreSQL, MySQL, Redis, Prisma, Entity Framework, Pandas, Polars |
-| Infra & Delivery | Docker, GitHub Actions, CI/CD Pipelines, Prometheus, Grafana, Linux |
-| Frontend | React, Next.js, React Native, Astro, Tailwind CSS |
-| Testing & Docs | Jest, Cypress, Swagger / OpenAPI |
+<div align="center">
+
+**Backend & Architecture**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**AI & MCP**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-D4A017?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Orchestration-0F172A?style=for-the-badge&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+
+**Environment**
+
+![Linux](https://img.shields.io/badge/Linux-Arch%20%7C%20Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-0F172A?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
 
 ## Current Snapshot
 
-```javascript
+```typescript
 class JuanAlbarracin {
-  constructor() {
-    this.role = "Full-Stack Engineer (Backend Focus)";
-    this.specialties = [
-      "Microservices",
-      "Distributed Architecture",
-      "AI & MCP Integration"
-    ];
-    this.architecture = ["DDD", "CQRS", "Clean Architecture"];
-    this.backend = ["NestJS", "Node.js", "Python", "PostgreSQL", "gRPC"];
-    this.frontend = ["React", "Next.js", "React Native"];
-    this.mission = "Replace manual workflows with intelligent systems";
-  }
+  readonly role = "Full-Stack Engineer (Backend Focus)";
+  readonly specialties = ["Microservices", "Distributed Architecture", "AI & MCP Integration"];
+  readonly architecture = ["DDD", "CQRS", "Clean Architecture"];
+  readonly backend = ["NestJS", "Node.js", "Python", "PostgreSQL", "gRPC"];
+  readonly frontend = ["React", "Next.js", "React Native"];
+  readonly environment = ["Arch Linux", "Hyprland", "Neovim", "self-hosted infra"];
+  readonly mission = "Replace manual workflows with intelligent systems";
 
-  currentFocus() {
+  currentFocus(): string[] {
     return [
       "building backend platforms",
-      "designing orchestration flows",
-      "shipping production-minded full-stack systems"
+      "designing MCP orchestration flows",
+      "shipping production-minded full-stack systems",
     ];
   }
 
-  sayHi() {
+  sayHi(): string {
     return "I care about architecture, clarity, and software that removes operational friction.";
   }
 }
-
-const me = new JuanAlbarracin();
-console.log(me.currentFocus());
-console.log(me.sayHi());
 ```
+
+---
+
+## Currently Listening
+
+<div align="center">
+  <!-- spotify:start -->
+  <a href="https://open.spotify.com/track/1q79aLwVAXl9Ukm9y1LPfL"><img src="./.github/assets/spotify-card.svg" alt="Spotify now playing card" width="460" /></a>
+  <!-- spotify:end -->
+</div>
+
+---
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albarracin-sg&show_icons=true&theme=react&hide_border=true&locale=en&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albarracin-sg&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albarracin-sg&show_icons=true&theme=react&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albarracin-sg&theme=react&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albarracin-sg&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albarracin-sg&theme=react&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albarracin-sg&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albarracin-sg&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22C55E,50:0EA5E9,100:0F172A&section=footer" alt="Footer" />
 </div>
