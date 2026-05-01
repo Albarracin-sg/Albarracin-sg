@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,40:1D4ED8,80:0EA5E9,100:22C55E&text=Juan%20Camilo%20Albarrac%C3%ADn&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Backend%20Architecture%20%C2%B7%20AI%20%26%20MCP%20Integration&descAlignY=56&descSize=15&animation=fadeIn" alt="Header" />
+  <img src="./assets/BANNER.png" alt="Header" />
 </div>
 
 <br/>
