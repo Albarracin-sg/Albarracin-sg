@@ -34,7 +34,7 @@
 ## 🎧 Currently Listening
 
 <!-- spotify:start -->
-Currently listening to **[Whayback](https://open.spotify.com/track/2YKkQHCU8K2m8IB368k2xJ)** by **Artifacts**  
+Currently listening to **[Flexi wit da Tech(nique)](https://open.spotify.com/track/0Ys0SN6rQ2aGAFJ1DPX3qV)** by **Artifacts**  
 Album: *Between A Rock And A Hard Place*
 <!-- spotify:end -->
 
