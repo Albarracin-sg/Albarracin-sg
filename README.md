@@ -14,6 +14,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="./assets/JUAN_ALBARRACIN_CV.docx">
+    <img src="https://img.shields.io/badge/Download%20CV-Juan%20Albarrac%C3%ADn-16A34A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Download CV" />
+  </a>
+</div>
+
 <br/>
 
 <div align="center">
@@ -31,6 +37,22 @@ Full-Stack Engineer con foco en backend, especializado en **reemplazar procesos 
 Diseño orquestadores basados en **MCP**, microservicios con **NestJS/gRPC** y pipelines de automatización que eliminan carga operativa real. No optimizo procesos — los transformo.
 
 Aplicación rigurosa de **DDD, CQRS y Clean Architecture** en producción. Capacidad full-stack cuando el producto lo exige con React, Next.js y React Native. Python para datos y automatización.
+
+También diseño y opero **workflows con agentes**, orquestando tools, skills, contexto y ejecución para construir flujos de trabajo confiables, repetibles y orientados a resultados. No se trata solo de usar IA: se trata de convertirla en operación útil.
+
+<br clear="right"/>
+
+---
+
+## How I Work
+
+<img align="right" width="240" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Teamwork" />
+
+- **Comunicación clara y ownership** — traduzco problemas complejos en planes ejecutables y mantengo foco en resultado, no solo en implementación.
+- **Trabajo en equipo** — colaboro bien con producto, diseño, negocio y desarrollo; me adapto al contexto sin perder criterio técnico.
+- **Mentoría y revisión técnica** — acompaño procesos, reviso PRs con intención arquitectónica y ayudo a elevar el nivel del equipo.
+- **Pensamiento sistémico** — conecto arquitectura, flujos de trabajo, operación y experiencia final para que el software resuelva problemas reales.
+- **Ejecución con agentes y skills** — sé estructurar flujos con agentes, skills, tool calling y contexto operativo para que plataformas como OpenCode trabajen con orden, reutilización y trazabilidad.
 
 <br clear="right"/>
 
