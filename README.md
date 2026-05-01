@@ -4,9 +4,17 @@
 
 <div align="center">
   <h1>Juan Camilo Albarracín Urrego</h1>
-  <p><strong>Full-Stack Engineer (Backend Focus) · Distributed Systems · AI & MCP Integration</strong></p>
+  <p><strong>🚀 Full-Stack Engineer (Backend Focus) · Distributed Systems · AI & MCP Integration</strong></p>
   <p>Bogotá, Colombia</p>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding workspace" />
+</div>
+
+<p align="center">
+  I design systems that turn manual operations into reliable software products — with strong backend architecture, production-ready delivery, and product-minded full-stack execution.
+</p>
 
 <p align="center">
   <a href="mailto:albarrajuan5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -20,6 +28,17 @@
   <img src="https://img.shields.io/badge/Data-PostgreSQL%20%C2%B7%20Redis%20%C2%B7%20Prisma-1F2937?style=flat-square" alt="Data" />
   <img src="https://img.shields.io/badge/Frontend-React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native-1E293B?style=flat-square" alt="Frontend" />
 </p>
+
+<div align="center">
+
+## 🎧 Currently Listening
+
+<!-- spotify:start -->
+Currently listening to **[Whayback](https://open.spotify.com/track/2YKkQHCU8K2m8IB368k2xJ)** by **Artifacts**  
+Album: *Between A Rock And A Hard Place*
+<!-- spotify:end -->
+
+</div>
 
 ## About
 
@@ -119,10 +138,3 @@ console.log(me.sayHi());
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albarracin-sg&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
-
-## Currently Listening
-
-<!-- spotify:start -->
-Currently listening to **[Whayback](https://open.spotify.com/track/2YKkQHCU8K2m8IB368k2xJ)** by **Artifacts**  
-Album: *Between A Rock And A Hard Place*
-<!-- spotify:end -->
