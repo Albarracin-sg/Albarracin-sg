@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <a href="./assets/JUAN_ALBARRACIN_CV.docx">
+  <a href="./assets/JUAN_ALBARRACIN_CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Juan%20Albarrac%C3%ADn-16A34A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Download CV" />
   </a>
 </div>
