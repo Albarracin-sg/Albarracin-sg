@@ -192,7 +192,7 @@ class JuanAlbarracin {
 
 <div align="center">
   <!-- spotify:start -->
-<a href="https://open.spotify.com/track/6gtau3fwEVqeQD5O8tRCVa"><img src="./.github/assets/spotify-card.svg" alt="Spotify now playing card" width="460" /></a>
+<a href="https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT"><img src="./.github/assets/spotify-card.svg" alt="Spotify now playing card" width="460" /></a>
 <!-- spotify:end -->
 </div>
 
