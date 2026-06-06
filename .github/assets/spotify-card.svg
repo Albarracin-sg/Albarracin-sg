@@ -10,9 +10,9 @@
   <text x="144" y="60" fill="#B3B3B3" font-size="14" font-family="Inter,Segoe UI,Arial,sans-serif">Clan Hueso Duro</text>
   <circle cx="152" cy="82" r="8" fill="#1ED760"/>
   <text x="168" y="87" fill="#1ED760" font-size="13" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif">RECENTLY PLAYED</text>
-  <text x="144" y="122" fill="#8E8E8E" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif">5:11</text>
-  <text x="412" y="122" text-anchor="end" fill="#8E8E8E" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif">-0:24</text>
+  <text x="144" y="122" fill="#8E8E8E" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif">0:00</text>
+  <text x="412" y="122" text-anchor="end" fill="#8E8E8E" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif">-5:35</text>
   <text x="144" y="138" fill="#121212" font-size="1">La Guerra en Lo Alto</text>
   <rect x="144" y="104" width="300" height="4" rx="2" fill="#4A4A4A"/>
-  <rect x="144" y="104" width="278.25" height="4" rx="2" fill="#1ED760"/>
+  <rect x="144" y="104" width="0.00" height="4" rx="2" fill="#1ED760"/>
 </svg>
