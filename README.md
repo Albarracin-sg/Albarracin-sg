@@ -12,6 +12,10 @@
   <a href="https://github.com/Albarracin-sg">
     <img src="https://img.shields.io/badge/GitHub-Albarracin--sg-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://jcalbarracin.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Juan Camilo Albarracín's portfolio" />
+  </a>
 </div>
 
 <div align="center">
